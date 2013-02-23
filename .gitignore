@@ -15,6 +15,7 @@ local.properties
 .classpath
 .settings/
 .loadpath
+*.asx
 
 # External tool builders
 .externalToolBuilders/

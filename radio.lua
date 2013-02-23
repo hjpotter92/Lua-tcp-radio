@@ -1,3 +1,9 @@
+--- This script was written for HiT Hi FiT Hai - IIT Kharagpur's DC++ server.
+--!
+--! 	Author: hjpotter92
+--
+
+
 local socket = require "socket"
 
 function HTMLTable( sContent, sPattern )
