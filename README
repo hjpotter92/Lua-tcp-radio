@@ -1,14 +1,8 @@
 The scripts will fetch statistical data from a running radio or a game server.
 
-The games for which this script is compatible are:
-
-    * Counter Strike (protocol 47, protocol 48 unchecked)
-    * Age of Empires II (Still to check about Age of Forgottern Empires)
-    * Quake 3 Arena
-
 The radio services it can currently fetch data from are:
 
-    * SHOUTcast servers
+- SHOUTcast servers
 
 Created by hjpotter92
 
